@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Steiner AI Authority and Consequence Matrix (SACM): the MORAL/CPM Management Portfolio Map"
+version: "1.1"
+date-released: 2026-10-08
+doi: 10.5281/zenodo.23233809
+license: CC-BY-4.0
+authors:
+  - family-names: Steiner
+    given-names: Martin K.
+    orcid: "https://orcid.org/0009-0008-3962-2452"
+url: "https://doi.org/10.5281/zenodo.23233809"
